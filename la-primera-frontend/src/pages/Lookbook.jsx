@@ -2,23 +2,23 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 // Import foto landscape
-import photo1 from "../assets/img/lookbook/photo1.JPG";
-import photo2 from "../assets/img/lookbook/photo2.JPG";
-import photo3 from "../assets/img/lookbook/photo3.JPG";
-import photo4 from "../assets/img/lookbook/photo4.JPG";
-import photo5 from "../assets/img/lookbook/photo5.JPG";
-import photo6 from "../assets/img/lookbook/photo6.JPG";
-import photo7 from "../assets/img/lookbook/photo7.JPG";
+import photo1 from "../assets/img/lookbook/photo1.jpg";
+import photo2 from "../assets/img/lookbook/photo2.jpg";
+import photo3 from "../assets/img/lookbook/photo3.jpg";
+import photo4 from "../assets/img/lookbook/photo4.jpg";
+import photo5 from "../assets/img/lookbook/photo5.jpg";
+import photo6 from "../assets/img/lookbook/photo6.jpg";
+import photo7 from "../assets/img/lookbook/photo7.jpg";
 import photo15 from "../assets/img/lookbook/miring1.jpeg";
 import photo16 from "../assets/img/lookbook/miring2.jpeg";
 import photo17 from "../assets/img/lookbook/miring3.jpeg";
 
 // Import foto portrait (IMG-...)
-import photo8 from "../assets/img/lookbook/IMG-20250904-WA0028.JPG";
-import photo9 from "../assets/img/lookbook/IMG-20250904-WA0029.JPG";
-import photo10 from "../assets/img/lookbook/IMG-20250904-WA0030.JPG";
-import photo11 from "../assets/img/lookbook/IMG-20250904-WA0031.JPG";
-import photo12 from "../assets/img/lookbook/IMG-20250904-WA0032.JPG";
+import photo8 from "../assets/img/lookbook/IMG-20250904-WA0028.jpg";
+import photo9 from "../assets/img/lookbook/IMG-20250904-WA0029.jpg";
+import photo10 from "../assets/img/lookbook/IMG-20250904-WA0030.jpg";
+import photo11 from "../assets/img/lookbook/IMG-20250904-WA0031.jpg";
+import photo12 from "../assets/img/lookbook/IMG-20250904-WA0032.jpg";
 import photo13 from "../assets/img/lookbook/wa1.jpeg";
 import photo14 from "../assets/img/lookbook/wa3.jpeg";
 
