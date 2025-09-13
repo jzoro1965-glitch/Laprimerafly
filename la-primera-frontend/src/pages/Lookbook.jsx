@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 // Import foto landscape
-import photo1 from "../assets/img/lookbook/photo1.jpg";
+import photo1 from "../assets/img/lookbook/photo1.JPG";
 import photo2 from "../assets/img/lookbook/photo2.jpg";
 import photo3 from "../assets/img/lookbook/photo3.jpg";
 import photo4 from "../assets/img/lookbook/photo4.jpg";
