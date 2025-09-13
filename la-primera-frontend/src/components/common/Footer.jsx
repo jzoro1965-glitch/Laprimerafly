@@ -5,7 +5,7 @@ import DANA from '../../assets/img/pay/dana.png';
 import MANDIRI from '../../assets/img/pay/mandiri.png';
 import VISA from '../../assets/img/pay/visa.jpg';
 import MASTERCARD from '../../assets/img/pay/mastercard.jpg';
-import APPSTORE from '../../assets/img/pay/appleAppStore.jpg';
+import APPSTORE from '../../assets/img/pay/appleAppStore.JPG';
 import BNI from '../../assets/img/pay/bni.png';
 import GOPAY from '../../assets/img/pay/gopay.png';
 
