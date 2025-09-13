@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react';
 import { formatPrice } from './utils/Formatters';
 import RatingStars from './RatingStars';
-import SizeChartImage from "../../assets/img/size-chart.png";
+import SizeChartImage from "../../assets/img/size-chart.PNG";
 
 
 const ProductDetailModal = ({ product, onClose, addToCart, isAddingToCart, showNotification }) => {
