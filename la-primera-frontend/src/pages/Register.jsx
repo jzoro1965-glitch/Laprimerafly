@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useAuth } from '../hooks/useAuth';
 import { Link, useNavigate } from 'react-router-dom';
-import registerLogo from "../assets/img/logo1.png";
+import registerLogo from "../assets/img/logo1.PNG";
 
 
 
