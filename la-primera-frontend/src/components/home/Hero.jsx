@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom'; // Import useNavigate
-import banner1 from '../../assets/img/banner/banner-1.JPG';
-import banner2 from '../../assets/img/banner/banner-2.JPG';
+import banner1 from '../../assets/img/banner/banner-1.jpg';
+import banner2 from '../../assets/img/banner/banner-2.jpg';
 import banner3 from '../../assets/img/banner/banner-3.JPG';
 import banner4 from '../../assets/img/banner/banner-4.JPG';
 import banner5 from '../../assets/img/banner/banner-5.JPG';
